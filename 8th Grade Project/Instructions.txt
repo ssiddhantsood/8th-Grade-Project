@@ -1,0 +1,11 @@
+INSTRUCTIONS ON RUNNING THE GAME:
+   1. Press Run on this SnakeDriver.java file.
+   2. The Graphics window wll appear on your screen. Press the Spacebar to start the game.
+   3. To control the snake, you will need to use your keyboard. Use W to move up, 
+       A to move left, S to move down, D to move right. Keep in mind you can't go up while you are
+       currently moving down, or move right while you are currently moving left, etc.
+   4. Use your snake (in blue) to gather apples (in red). Your run will end when you crash 
+       against yourself or you crash against the border of the Graphics window.
+   5. If your run ends, you will be guided to a JOptionPane that tells you your score. 
+       To play the game again, repeat the previous steps.
+   6. The max score you can achieve in this game is 255. Try to reach it and good luck!
